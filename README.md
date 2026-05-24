@@ -22,7 +22,7 @@ The site was designed to give guests a premium online experience — showcasing 
 
 
  Sections
-SectionDescription HomeHero parallax with hotel exterior and booking CTA🎤 ConferencingConference hall details and capacity info🍽️ Restaurant & BarsFood gallery and bar showcase🏊 Health & FitnessPool and wellness facilities🎵 EntertainmentLive music, cocktail lounge and events🗺️ Maps & DirectionsGoogle Maps embed + contact details📞 ContactFull booking enquiry form
+SectionDescription HomeHero parallax with hotel exterior and booking CTA ConferencingConference hall details and capacity info Restaurant & BarsFood gallery and bar showcase Health & FitnessPool and wellness facilities🎵 EntertainmentLive music, cocktail lounge and events Maps & DirectionsGoogle Maps embed + contact details ContactFull booking enquiry form
 
  Built With
 
