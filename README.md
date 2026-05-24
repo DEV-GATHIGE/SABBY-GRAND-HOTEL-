@@ -2,7 +2,7 @@ Sabby Grand Hotel — Official Website
 
 A fully responsive, parallax-scrolling hotel website built with pure HTML, CSS and JavaScript.
 
-Live Site: https://silly-dragon-2229f7.netlify.app
+Live Site: [https://silly-dragon-2229f7.netlify.app](https://sabby-grandhotel.netlify.app/)
 
  Preview
 Show Image
